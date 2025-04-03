@@ -1,0 +1,44 @@
+.informacion {
+	padding: 2% 0;
+}
+
+.informacion .opciones {
+	margin-bottom: 30px;
+	border: 2px solid #FFE000;
+	border-radius: 15px;
+	padding: 0 0 2% 0;
+}
+
+.informacion .opciones .principal {
+	cursor: pointer;
+	background: #FFE000;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 100%;
+	height: 50px;
+	margin-bottom: 2.5%;
+	font-weight: 500;
+}
+.informacion .opciones .principal p {
+	padding-left: 2%;
+}
+
+.informacion .opciones .desplegable {
+	padding-left: 5%;
+}
+
+.informacion .opciones .desplegable li {
+	padding-bottom: 1%;
+}
+
+.informacion .opciones .desplegable .secundario {
+	padding-bottom: 1.5%;
+	cursor: pointer;
+}
+
+.informacion .opciones .desplegable .sub-desplegable {
+	padding: 0 0 1% 5%;
+}

@@ -1,0 +1,18 @@
+.contenedor .contenido {
+	padding: 7% 0;
+}
+
+.contenedor .sub-contenedor .encabezado {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+}
+
+.contenedor .sub-contenedor .encabezado img {
+	width: 7%;
+}
+
+.contenedor .sub-contenedor .estatuto {
+	text-align: justify;
+}

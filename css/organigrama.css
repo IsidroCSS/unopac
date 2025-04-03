@@ -1,0 +1,14 @@
+.contenedor .sub-contenedor .organigrama {
+	text-align: center;
+}
+
+.contenedor .sub-contenedor .organigrama img {
+	width: 50%;
+	padding-top: 2%;
+}
+
+.contenedor .sub-contenedor .organigrama iframe {
+	border: none;
+	width: 80%;
+	height: 60vh;
+}

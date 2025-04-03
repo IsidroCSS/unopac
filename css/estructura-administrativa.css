@@ -1,0 +1,26 @@
+.contenedor .sub-contenedor .table-estructura {
+	margin: 0 auto;
+	margin-top: 50px;
+	border-collapse: collapse;
+}
+
+.contenedor .sub-contenedor .table-estructura tr {
+	 background: #002749;
+	 color: #FFF;
+}
+
+.contenedor .sub-contenedor .table-estructura .color1 {
+	background: #FFF;
+	color: #000;
+}
+
+.contenedor .sub-contenedor .table-estructura tr th,
+.contenedor .sub-contenedor .table-estructura tr td {
+	padding: 5px 20px;
+	width: 300px;
+}
+
+.contenedor .sub-contenedor .table-estructura tr td a {
+	text-decoration: none;
+	color: #FFF;
+}
